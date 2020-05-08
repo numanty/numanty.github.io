@@ -3,7 +3,6 @@ layout: post
 title: Primeros pasos de tu equipo
 date: 2014-03-28
 ---
-
 Te acaban de dar equipo en Hattrick y estás más nerviosa que una colegiala con rotuladores nuevos. ¡Espera! ¡No toques nada aún! Léete primero los siguientes pasos:
 
 - Léete el [Manual de hattrick.](http://www.hattrick.org/Help/Rules/Complete.aspx)
@@ -15,8 +14,6 @@ Te acaban de dar equipo en Hattrick y estás más nerviosa que una colegiala con
     - Si entrenas defensa, juega con cinco defensas en liga, y otros cinco diferentes el amistoso.
     - Si entrenas jugadas, juega con cinco centrocampistas en liga, y otros cinco diferentes el amistoso.
     - Si entrenas anotación, juega con tres delanteros en liga, y otros tres diferentes el amistoso.
-
- 
 
 #### **Recomendaciones iniciales**
 
@@ -34,4 +31,4 @@ Te acaban de dar equipo en Hattrick y estás más nerviosa que una colegiala con
 - Aprovecha que estás en divisiones bajas para entrenar el máximo número de jugadores (5 en liga + 5 en amistoso si entrenas defensa; 5+5 si entrenas jugadas; o 3+3 si entrenas anotación).
 - Para progresar, debes [vender jugadores](http://www.guiaocerin.com/es/vender-y-comprar-jugadores-en-hattrick/). Por ejemplo si estás entrenando 6 delanteros, puedes ir vendiendo a 3 según van subiendo para ganar dinero y con ese dinero comprar jugadores de otras zonas del campo, manteniendo fuerte el ataque con los otros 3.
 
- **Paciencia, paciencia y paciencia.**
+**Paciencia, paciencia y paciencia.**
