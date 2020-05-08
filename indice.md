@@ -4,7 +4,7 @@ title: Indice
 permalink: /indice/
 ---
 
-#### Primeros pasos
+#### <span style="color:#f55753">Primeros pasos</span>
 - Primeros pasos de tu equipo
 - Licencia de Mánager
 - Una semana en Hattrick
@@ -17,7 +17,7 @@ permalink: /indice/
 - Eventos especiales
 - Fidelidad a tu club
 - Carácter, honestidad y agresividad
-- [TSI]("tsi)
+- <span style="color:$gray">[TSI]("tsi)</span>
 - Porcentaje de resistencia
 - Lesiones y tarjetas
 - El extremo: un jugador especial
