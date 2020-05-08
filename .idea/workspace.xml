@@ -90,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588927504953</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: added all post">
+      <created>1588927823082</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588927823082</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: added all post">
+      <created>1588927917266</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588927917266</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
