@@ -17,7 +17,7 @@ permalink: /indice/
 - Eventos especiales
 - Fidelidad a tu club
 - Carácter, honestidad y agresividad
-- TSI
+- [TSI]("tsi)
 - Porcentaje de resistencia
 - Lesiones y tarjetas
 - El extremo: un jugador especial
@@ -70,7 +70,7 @@ permalink: /indice/
 #### Economía
 - Finanzas
 - Estrategias. Intereses y Bancarrota.
-- Aficionados
+- [Aficionados]("aficionados-en-hattrick)
 - Estadio
 - Premios de la Liga
 - Vender y comprar jugadores
@@ -92,7 +92,7 @@ permalink: /indice/
 - ¿Red o academia?
 
 #### Varios
-- Potencial, nueva forma de medir tu equipo
+- [Potencial, nueva forma de medir tu equipo]("potencial")
 - Diccionario de hattrick
 - Editoriales de hattrick
 - El truco del espíritu
