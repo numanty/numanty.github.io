@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Potencial, nueva forma de medir tu equipo
-date: 2014-03-27
+date: 2020-05-08
 ---
 Ya tenemos disponible el primer componente del nuevo sistema de clasificaciones en Hattrick, el cual te dará un indicador único de fortaleza de tu equipo (al margen de estrellas o calificaciones en los partidos).
 
