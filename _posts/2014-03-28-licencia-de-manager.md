@@ -9,23 +9,21 @@ Aquí explicamos la licencia de manager en Hattrick. Esta Licencia son una serie
 **Actualización 2015.** Esta Licencia ha ido cambiando con el paso del tiempo, reorganizando retos y cambiando unos por otros. Gracias a la colaboración de **_[synthetic7man](http://es.hattrick.org/Club/Manager/?userId=13101930)_** tenemos la versión más actualizada.
 
 Puedes consultar en cualquier momento el estado de tu Licencia en el menú Mi Hattrick > Licencia.
-
  
-**Reto nº 1: ¡Sigue al guía!**
+- **Reto nº 1: ¡Sigue al guía!**
 
 Dinero que se recibe: 0
 
 Simplemente completa la visita guiada del principio del juego para conocer a todo tu equipo.
-
  
-**Reto nº 2: En caso de emergencia...**
+- **Reto nº 2: En caso de emergencia...**
 
 Dinero que se recibe: 0
 
 Aquí tienes que aportar un correo electrónico de contacto por si desde Hattrick te tienen que enviar un aviso urgente. En lugar de correo, también vale añadiendo tu cuenta de Facebook.
 
 
-**Reto nº 3: Hogar dulce hogar**
+- **Reto nº 3: Hogar dulce hogar**
 
 Dinero que se recibe: 15.000
 
