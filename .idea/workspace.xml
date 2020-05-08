@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff778d78-4654-43ee-98c1-52e88338bfe1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2014-03-28-tsi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-03-28-tsi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-08-06-portavoz-en-hattrick.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-08-06-portavoz-en-hattrick.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-10-26-adios-portavoz-te-echaremos-de-menos.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-10-26-adios-portavoz-te-echaremos-de-menos.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-10-26-asistente-tactico-en-hattrick.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-10-26-asistente-tactico-en-hattrick.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indice.md" beforeDir="false" afterPath="$PROJECT_DIR$/indice.md" afterDir="false" />
-    </list>
+    <list default="true" id="ff778d78-4654-43ee-98c1-52e88338bfe1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570309466239</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Potencial">
-      <created>1588922388265</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1588922388265</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Potencial">
-      <created>1588922784600</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1588922784600</updated>
     </task>
     <task id="LOCAL-00003" summary="Potencial">
       <created>1588922868780</created>
@@ -398,7 +378,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588947742005</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="updates">
+      <created>1588947919323</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1588947919324</updated>
+    </task>
+    <task id="LOCAL-00051" summary="updates">
+      <created>1588948135899</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1588948135899</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="UnknownFeatures">
