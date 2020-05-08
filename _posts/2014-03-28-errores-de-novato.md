@@ -8,8 +8,6 @@ El 05/11/2011 el usuario de hattrick [Mandonio](http://www.hattrick.org/Club/Man
 
 Estos son esos errores.
 
-[![](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fi.imgur.com%2FHC7uZ.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)](http://i.imgur.com/HC7uZ.jpg)
-
 **Entrenamiento**
 
 1.1.- Tardar demasiado -más de una temporada- en comprar [el entrenador](http://www.guiaocerin.com/es/el-entrenador/) bueno/pobre. Ahora dan el entrenador aceptable/pobre cuando se empieza.
@@ -38,7 +36,7 @@ Estos son esos errores.
 
 1.13.- El entrenamiento tiene lugar en España el viernes a las 01'00 h. No en sábados ni cualquier otro día.
 
- 
+
 
 **Economía**
 

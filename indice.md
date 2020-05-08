@@ -7,8 +7,8 @@ permalink: /indice/
 ### Primeros pasos
 - [Primeros pasos de tu equipo](/primeros-pasos-de-tu-equipo)
 - [Licencia de Mánager](/licencia-de-manager)
-- Una semana en Hattrick
-- Errores de novato
+- [Una semana en Hattrick](/una-semana-en-hattrick)
+- [Errores de novato](/errores-de-novato)
 
 ### Jugadores
 - Habilidades
