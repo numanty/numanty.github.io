@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Ocerin
 permalink: /about/
 ---
 La Federación Ocerin nace en enero de 2007 como plataforma para que varios ‘hattrickeros’ puedan compartir experiencias y ayudarse mutuamente para progresar en el juego, en un punto de encuentro al que acudir buscando opiniones fiables.
