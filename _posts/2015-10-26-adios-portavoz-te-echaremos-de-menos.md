@@ -3,7 +3,7 @@ layout: post
 title: Adiós portavoz, te echaremos de menos
 date: 2015-10-26
 ---
-La editorial de Hattrick de ayer nos dejó una despedida: [El portavoz](portavoz-en-hattrick.md), empleado que podíamos contratar hasta ahora, desaparece del juego. A partir de hoy mismo ya no aparecerá entre tus empleados y no podrá ser contratado. Para compensarlo, todos los equipos de Hattrick recibirán una bonificación igual a la que aportaba el Portavoz de Nivel 5.
+La editorial de Hattrick de ayer nos dejó una despedida: [El portavoz](portavoz-en-hattrick), empleado que podíamos contratar hasta ahora, desaparece del juego. A partir de hoy mismo ya no aparecerá entre tus empleados y no podrá ser contratado. Para compensarlo, todos los equipos de Hattrick recibirán una bonificación igual a la que aportaba el Portavoz de Nivel 5.
 
 ¡Te echaremos de menos!
 
