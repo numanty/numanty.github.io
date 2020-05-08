@@ -3,4 +3,4 @@ layout: page
 title: Telegram
 permalink: /telegram/
 ---
-https://t.co/ij5RBfUFLe
+[Canal de ayuda en Telegram](https://t.co/ij5RBfUFLe)
