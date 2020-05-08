@@ -32,4 +32,4 @@ http://www.ht-tools.eu
 
 https://github.com/ventouris/hattricktools
 
-[App Ocerin Android](https://play.google.com/store/apps/details?id=com.guiaocerin)
+[Link Google Play](https://play.google.com/store/apps/details?id=com.guiaocerin)
