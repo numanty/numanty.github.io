@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff778d78-4654-43ee-98c1-52e88338bfe1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2014-08-06-portavoz-en-hattrick.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-08-06-portavoz-en-hattrick.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-10-26-adios-portavoz-te-echaremos-de-menos.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-10-26-adios-portavoz-te-echaremos-de-menos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/aficionados-en-hattrick.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-08-04-aficionados-en-hattrick.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/aplicacion-guia-ocerin-android.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/aportaciones-de-los-jugadores-en-hattrick-actualizadas.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-06-26-aportaciones-de-los-jugadores-en-hattrick-actualizadas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/aportaciones-de-los-jugadores-en-hattrick.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-02-07-aportaciones-de-los-jugadores-en-hattrick.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -276,11 +279,28 @@
       <option name="project" value="LOCAL" />
       <updated>1588938082316</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="updates">
+      <created>1588938275852</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1588938275852</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.scss" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

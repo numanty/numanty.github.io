@@ -7,7 +7,6 @@ Las aportaciones de los jugadores en hattrick es una de las dudas más frecuente
 
 Con las siguientes tablas podrás ver cuánto aporta cada jugador a cada zona del juego según sus habilidades. Estas son las aportaciones incluyendo los cambios de Octubre de 2015, aportaciones que son estimadas, representadas de una forma más visual para que sean más sencillas de entender.
 
- 
 
 ![](http://i.imgur.com/TdBA5Xd.png)
 
