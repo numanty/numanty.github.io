@@ -10,28 +10,28 @@ permalink: /indice/
 - Una semana en Hattrick
 - Errores de novato
 
-#### Jugadores
+#### <span style="color:#f55753">Jugadores</span>
 - Habilidades
 - Habilidades por posición
 - Forma y resistencia
 - Eventos especiales
 - Fidelidad a tu club
 - Carácter, honestidad y agresividad
-- [<span style="color:$gray">TSI</span>]("tsi)
+- <span style="color:$gray">[TSI]</span>("tsi)
 - Porcentaje de resistencia
 - Lesiones y tarjetas
 - El extremo: un jugador especial
 - Jugadores viejos. Ventajas e inconvenientes
 - Bajadas de habilidad y sueldos
 
-#### Entrenamientos
+#### <span style="color:#f55753">Entrenamientos</span>
 - Cómo entrenar
 - Entrenamientos principales
 - Otros entrenamientos
 - El entrenador: Habilidades
 - El entrenador: Cómo contratar
 
-#### Partidos
+#### <span style="color:#f55753">Partidos</span>
 - Instrucciones individuales
 - Sustituciones
 - Calificaciones de equipo
@@ -47,7 +47,7 @@ permalink: /indice/
 - Los amistosos
 - Horarios partidos amistosos internacionales
 
-#### Las tácticas
+#### <span style="color:#f55753">Las tácticas</span>
 - Atacar por las bandas
 - Atacar por el centro
 - Contraataques
@@ -55,7 +55,7 @@ permalink: /indice/
 - Tiros lejanos
 - Jugar creativamente
 
-#### Las formaciones
+#### <span style="color:#f55753">Las formaciones</span>
 - 352
 - 451
 - 343
@@ -67,7 +67,7 @@ permalink: /indice/
 - 550
 - 433
 
-#### Economía
+#### <span style="color:#f55753">Economía</span>
 - Finanzas
 - Estrategias. Intereses y Bancarrota.
 - [Aficionados]("aficionados-en-hattrick)
@@ -77,7 +77,7 @@ permalink: /indice/
 - Mercado: Daytrading y Steptrading
 - Salarios de los jugadores
 
-#### Empleados
+#### <span style="color:#f55753">Empleados</span>
 - El entrenador asistente
 - Doctor
 - Preparador físico (entr. de forma)
@@ -88,10 +88,10 @@ permalink: /indice/
 - Coste de los empleados
 - Despido de los empleados
 
-#### Juveniles
+#### <span style="color:#f55753">Juveniles</span>
 - ¿Red o academia?
 
-#### Varios
+#### <span style="color:#f55753">Varios</span>
 - [Potencial, nueva forma de medir tu equipo]("potencial")
 - Diccionario de hattrick
 - Editoriales de hattrick
@@ -102,9 +102,9 @@ permalink: /indice/
 - Hattrick Next Generation
 - Links
 
-#### Competiciones Ocerin
+#### <span style="color:#f55753">Competiciones Ocerin</span>
 - Competiciones en Ocerin
 - Histórico de campeones Copa Ocerin
 
-#### Opciones de pago
+#### <span style="color:#f55753">Opciones de pago</span>
 - Duelos, torneos y credits
