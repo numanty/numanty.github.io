@@ -16,7 +16,6 @@ Pero los portavoces no tienen un efecto inmediato. Van aumentando poco a poco el
 
 Imagina que comienzas bien la Liga y tus patrocinadores están en nivel Contentos (6). Gracias a estar Contentos (6) te proporcionaran un determinado nivel de ingresos semanales. Si tienes un portavoz de nivel 1, él puede aumentar poco a poco el estado de ánimo de los patrocinadores hasta Encantados (7), con lo cuál pagarán más dinero semanal.
 
-
 Por lo tanto hay que asegurarse de que el sueldo que le pagas al portavoz sea inferior al aumento de dinero que recibes de tus aficionados y patrocinadores gracias a la influencia de ese portavoz.
 
 El mejor consejo es ir probando. Contratar por ejemplo un portavoz de nivel 2, y apuntar a final de temporada cuánto cobras por patrocinadores y cuántos aficionados van a tu estadio. A la siguiente temporada, contratar un nivel 3 y comparar los resultados. Pero hay que tener en cuenta que el estado de ánimo de los aficionados se ve influido sobretodo por los resultados de tus partidos según las expectativas que tenían, por lo que es difícil apreciar el resultado exacto del portavoz.
