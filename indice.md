@@ -17,7 +17,7 @@ permalink: /indice/
 - Eventos especiales
 - Fidelidad a tu club
 - Carácter, honestidad y agresividad
-- [TSI](2014-03-28-tsi.md)
+- [TSI](/tsi)
 - Porcentaje de resistencia
 - Lesiones y tarjetas
 - El extremo: un jugador especial
@@ -92,7 +92,7 @@ permalink: /indice/
 - ¿Red o academia?
 
 ### Varios
-- [Potencial](potencial)
+- [Potencial]("potencial")
 - Diccionario de hattrick
 - Editoriales de hattrick
 - El truco del espíritu
