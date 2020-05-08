@@ -8,21 +8,17 @@ En Hattrick puedes contratar los siguientes tipos de empleados: [Entrenador asis
 
 ### Asistente táctico en hattrick
 
-![](http://i.imgur.com/Bb1asCK.png)
-
 El asistente táctico en hattrick te proporciona algunas opciones extras cuando vas a enviar tu alineación para el próximo partido: te permite dejar planificadas más sustituciones y órdenes individuales, y también puedes ajustar el estilo ofensivo o defensivo de tu equipo.
 
 **Sustituciones y órdenes****.**
 
 En hattrick puedes dejar planificadas 5 órdenes condicionadas para el partido, que pueden incluir sustituciones de jugadores, intercambios de posiciones u órdenes individuales. El entrenador táctico te permite ampliar esas 5 órdenes, añadiendo una por cada nivel de empleado.
 
-![](http://i.imgur.com/ggRStUD.jpg)
-
 La columna "Total instrucciones" indica el total de diferentes instrucciones que puedes dar según el nivel del Asistente Táctico, lo que incluye sustituciones, órdenes individuales e intercambios de posiciones.
 
 Ten en cuenta que sólo se pueden sustituir 3 jugadores, por lo que si dejas planificadas más de 3 sustituciones para las mismas condiciones sólo se efectuarán las 3 primeras. La ventaja del asistente táctico es que puedes preveer más situaciones, por ejemplo con un asistente táctico de nivel dos podrías dejar planificadas 3 instrucciones en el caso de que vayas ganando el partido, y otras 3 en el caso de que vayas perdiendo, y además una instrucción individual, con lo que tendrías 7 órdenes preparadas (las 5 que hattrick permite por defecto más las 2 extras de tu asistente táctico de nivel 2).
 
-* * *
+<br/>
 
 **Estilo de juego**
 
@@ -32,7 +28,7 @@ El entrenador táctico permite que tu equipo no sea 100% defensivo, 100% neutral
 
 Veamos los ejemplos.
 
-* * *
+<br/>
 
 **Tenemos entrenador neutro**
 
@@ -54,7 +50,7 @@ Si tuviéramos contratado un táctico de nivel 5, vemos que el punto máximo ofe
 
 ![](http://i.imgur.com/xCtaXsU.jpg)
 
-* * *
+<br/>
 
 **Tenemos entrenador ofensivo**
 
@@ -76,7 +72,7 @@ Como vemos, si tenemos un entrenador ofensivo, dependiendo del nivel del asisten
 
 ![](http://i.imgur.com/5NMJgzI.jpg)
 
-* * *
+<br/>
 
 **Tenemos entrenador defensivo**
 
