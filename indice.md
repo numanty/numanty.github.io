@@ -4,7 +4,7 @@ title: Indice
 permalink: /indice/
 ---
 
-### Primeros pasos
+#### Primeros pasos
 - Primeros pasos de tu equipo
 - Licencia de Mánager
 - Una semana en Hattrick
