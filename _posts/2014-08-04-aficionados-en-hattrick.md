@@ -65,8 +65,8 @@ Además perder en tu campo les afecta más que perder fuera, y ganar fuera les a
 Si juegas 'Partido de la temporada', tus aficionados se alegrarán más si ganas, y se enfadarán menos si pierdes.
 
 Por el contrario si juegan 'relajados', tus aficioandos se alegrarán menos si ganas, y se enfadarán más aun si pierdes. 
-
-&nbsp;
+\
+\
 **Resumen:**
 
 Lo importante es que los aficionados estén contentos, ya que así tendrás más público en tu estadio, y por tanto ganarás más dinero por taquillas.
