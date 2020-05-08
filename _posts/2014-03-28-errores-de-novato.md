@@ -7,7 +7,8 @@ date: 2014-03-28
 El 05/11/2011 el usuario de hattrick [Mandonio](http://www.hattrick.org/Club/Manager/?userId=6243152), abrió un tema en el foro de Hattrick para que todos los usuarios comentaran sus errores de novato en hattrick. En ese tema se fueron recopilando los típicos errores que todos hemos cometido alguna vez, para recordarlos pero sobretodo para ayudar a nuevos usuarios a no tropezar con las mismas piedras.
 
 Estos son esos errores.
- 
+
+  
 **Entrenamiento**
 
 1.1.- Tardar demasiado -más de una temporada- en comprar [el entrenador](http://www.guiaocerin.com/es/el-entrenador/) bueno/pobre. Ahora dan el entrenador aceptable/pobre cuando se empieza.
@@ -35,7 +36,8 @@ Estos son esos errores.
 1.12.- Cambiar cada semana de entrenamiento.
 
 1.13.- El entrenamiento tiene lugar en España el viernes a las 01'00 h. No en sábados ni cualquier otro día.
- 
+
+  
 **Economía**
 
 2.1.- Caer en [bancarrota](http://www.guiaocerin.com/es/estrategias-financieras-en-hattrick-intereses-y-bancarrota/).
@@ -55,7 +57,8 @@ Estos son esos errores.
 2.8.- (De [drafte](http://www.hattrick.org/Club/Manager/?userId=8636778)) No mirar la comparativa de precios.
 
 2.9.- (De [GEORGE\_SM](http://www.hattrick.org/Club/Manager/?userId=11372298)) Jugar amistosos internacionales en campo contrario desde el principio.
- 
+
+  
 **Partidos**
 
 3.1.- (De [VK-Joey Ramone](http://www.hattrick.org/Club/Manager/?userId=10552188)) Creer que HT funciona del mismo modo que el fútbol real.
@@ -71,7 +74,8 @@ Estos son esos errores.
 3.6.- Fiarse de las estrellas y de los “predictor”.
 
 3.7.- (De [Gabroll](http://www.hattrick.org/Club/Manager/?userId=8998187)) Usar mal las tácticas. Por ejemplo, jugar Atacar por las bandas sin extremos. Jugar normal con un solo medio, etc.
- 
+
+  
 **Otros**
 
 4.1.- En general, no tener paciencia.
