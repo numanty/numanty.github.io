@@ -8,7 +8,14 @@ El estado de ánimo de los aficionados en hattrick es importantísimo, porque af
 
 Sus niveles son:
 
-\- ¡Adorándote! Bailando en las calles Felices - Encantados - Contentos - Satisfechos - Calmados - Irritados - Furiosos - Sanguinarios
+- ¡Adorándote! Bailando en las calles Felices 
+- Encantados 
+- Contentos 
+- Satisfechos 
+- Calmados 
+- Irritados 
+- Furiosos 
+- Sanguinarios
 
 El estado de ánimo de los aficionados también depende (y mucho) de las expectativas que tengan, tanto para la temporada como para el próximo partido.
 
@@ -18,7 +25,15 @@ El sistema de aficionados está pensado para beneficiar mucho a los equipos que 
 
 Sin embargo el sistema penaliza excesivamente a los equipos que descienden y no son capaces de subir al primer intento, ya que los aficionados seguirán con las expectativas muy altas varias temporadas, y casi nunca estarán contentos.
 
-Los niveles son los siguientes: - ¡Nuestro nivel es demasiado bueno para esta división! - Tenemos que quedar campeones esta temporada - Objetivo, ¡el título! - Estamos entre los 4 primeros - Terminar a mitad detabla estaría bastante bien - Habrá que luchar por la permanencia - Cada día que pasa en esta liga es un regalo - No somos lo suficientemente buenos para esta liga
+Los niveles son los siguientes: 
+- ¡Nuestro nivel es demasiado bueno para esta división! 
+- Tenemos que quedar campeones esta temporada 
+- Objetivo, ¡el título! 
+- Estamos entre los 4 primeros 
+- Terminar a mitad detabla estaría bastante bien 
+- Habrá que luchar por la permanencia 
+- Cada día que pasa en esta liga es un regalo 
+- No somos lo suficientemente buenos para esta liga
 
 Estas expectativas de la temporada influyen en las expectativas que los aficionados tienen para cada partido. Estas últimas son muy importantes, ya que influyen en el estado de ánimo en el que quedan tras los partidos.
 
@@ -26,7 +41,17 @@ Si son bajas y pierdes, no se preocuparán mucho. Si son bajas y ganas, tendrán
 
 Por el contrario si son altas y ganas, no se alegrarán mucho, pero si pierdes sufrirán un bajonazo en su estado de ánimo.
 
-Las expectativas para los partidos son: - Humillémosles - Esto está tirado - Somos favoritos - Tenemos ventaja - Estará muy igualado - Tienen ventaja - Son favoritos - Perderemos - Nos van a barrer
+Las expectativas para los partidos son: 
+- Humillémosles 
+- Esto está tirado 
+- Somos favoritos 
+- Tenemos ventaja 
+- Estará muy igualado 
+- Tienen ventaja 
+- Son favoritos 
+- Perderemos
+- Nos van a barrer
+
 
 Puedes ver las expectativas para los próximos tres partidos oficiales en la página de Aficionados.
 
@@ -36,7 +61,9 @@ Además perder en tu campo les afecta más que perder fuera, y ganar fuera les a
 
 Si juegas 'Partido de la temporada', tus aficionados se alegrarán más si ganas, y se enfadarán menos si pierdes.
 
-Por el contrario si juegan 'relajados', tus aficioandos se alegrarán menos si ganas, y se enfadarán más aun si pierdes. **Resumen:**
+Por el contrario si juegan 'relajados', tus aficioandos se alegrarán menos si ganas, y se enfadarán más aun si pierdes. 
+
+  **Resumen:**
 
 Lo importante es que los aficionados estén contentos, ya que así tendrás más público en tu estadio, y por tanto ganarás más dinero por taquillas.
 
