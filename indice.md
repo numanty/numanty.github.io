@@ -17,7 +17,7 @@ permalink: /indice/
 - Eventos especiales
 - Fidelidad a tu club
 - Carácter, honestidad y agresividad
-- [TSI](tsi)
+- [TSI]("tsi")
 - Porcentaje de resistencia
 - Lesiones y tarjetas
 - El extremo: un jugador especial
