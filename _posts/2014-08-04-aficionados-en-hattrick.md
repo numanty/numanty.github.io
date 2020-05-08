@@ -6,7 +6,7 @@ date: 2014-08-04
 
 El estado de ánimo de los aficionados en hattrick es importantísimo, porque afecta número de espectadores que tendrás en tus partidos como local. Este estado de ánimo varía tras cada partido dependiendo del resultado logrado.
 
-&nbsp;
+<br\>
 Sus niveles son:
 
 - ¡Adorándote! Bailando en las calles Felices 
@@ -26,7 +26,7 @@ El sistema de aficionados está pensado para beneficiar mucho a los equipos que 
 
 Sin embargo el sistema penaliza excesivamente a los equipos que descienden y no son capaces de subir al primer intento, ya que los aficionados seguirán con las expectativas muy altas varias temporadas, y casi nunca estarán contentos.
 
-&nbsp;
+<br\>
 Los niveles son los siguientes: 
 - ¡Nuestro nivel es demasiado bueno para esta división! 
 - Tenemos que quedar campeones esta temporada 
@@ -43,7 +43,7 @@ Si son bajas y pierdes, no se preocuparán mucho. Si son bajas y ganas, tendrán
 
 Por el contrario si son altas y ganas, no se alegrarán mucho, pero si pierdes sufrirán un bajonazo en su estado de ánimo.
 
-&nbsp;
+<br\>
 Las expectativas para los partidos son: 
 - Humillémosles 
 - Esto está tirado 
@@ -64,9 +64,9 @@ Además perder en tu campo les afecta más que perder fuera, y ganar fuera les a
 
 Si juegas 'Partido de la temporada', tus aficionados se alegrarán más si ganas, y se enfadarán menos si pierdes.
 
-Por el contrario si juegan 'relajados', tus aficioandos se alegrarán menos si ganas, y se enfadarán más aun si pierdes.\
-\
-\
+Por el contrario si juegan 'relajados', tus aficioandos se alegrarán menos si ganas, y se enfadarán más aun si pierdes.
+
+<br\>
 **Resumen:**
 
 Lo importante es que los aficionados estén contentos, ya que así tendrás más público en tu estadio, y por tanto ganarás más dinero por taquillas.
