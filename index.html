@@ -13,26 +13,14 @@ layout: default
     {% for post in site.posts %}
     <article class="post" onload="javascript:parseDate()">
 
-        <script>
-        function parseDate() {
-            const d = new Date('2010-08-05')
-            const ye = new Intl.DateTimeFormat('en', { year: 'numeric' }).format(d)
-            const mo = new Intl.DateTimeFormat('en', { month: 'short' }).format(d)
-            const da = new Intl.DateTimeFormat('en', { day: '2-digit' }).format(d)
-            document.getElementById("date").innerHTML = `${da}-${mo}-${ye}`;
-        }
-
-
-        </script>
-
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-        <h4 id="date"></h4>
+        <h4>{{ post.date }</h4>
 
         <div class="entry">
             {{ post.excerpt }}
         </div>
 
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer mas...</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">seguir leyendo</a>
     </article>
     {% endfor %}
 </div>
