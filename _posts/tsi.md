@@ -1,0 +1,29 @@
+---
+layout: post
+title: TSI
+date: 2014-03-28
+---
+
+En la ficha de cada jugador aparece un misterioso número, por ejemplo TSI: 1390, que suele volver loco a todo el mundo: a los más novatos porque no lo entienden muy bien y a los más veteranos porque lo entienden muy bien.
+
+![](http://i.imgur.com/aoNncpZ.jpg)
+
+**¿Pero qué es?**
+
+- Son las iniciales de 'Total Skill Index', que significa 'Índice total de habilidades'.
+- Es un numerito que depende de todas las habilidades del jugador, de su estado de forma, de su resistencia y de su edad.
+- Cuanto más le entrenas la habilidad, más aumenta su TSI, semana a semana. Si fichas dos delanteros buenos, y a uno lo entrenas y al otro no, el TSI del primero irá distanciándose del del segundo.
+- Lo cual no quiere decir que 'cuanto más TSI mejor jugador es'. Es obvio que un jugador con TSI de 50.000 será mejor que uno con TSI de 3.000. Pero, ¿y si comparamos uno de 3.500 con otro de 4.000? Ahí ya hay dudas.
+- Ejemplo inventado, un delantero excelente puede tener un TSI de 1.500. Y otro delantero excelente pero que tenga defensa bueno, puede tenerlo de 2.000. En este ejemplo ambos delanteros rendirían igual, a pesar de su diferencia de TSI.
+- Además la forma influye mucho en el TSI, por lo que un gran jugador en mal momento puede tener menos TSI que otro jugador inferior pero que esté más en forma.
+- También se ha de tener en cuenta la edad: los jugadores de más de 28 años van bajando su TSI por la edad (y también sus habilidades).
+
+![](http://i.imgur.com/hUGAtyd.png)
+
+**Entonces, ¿para qué sirve?**
+
+Hemos dicho que no sirve para poder decir de forma fiable que un jugador es mejor que otro, ¿sirve de algo? Sí, tiene especialmente tres utilidades:
+
+- **Calcular el subnivel de habilidad.** Como hemos dicho, el TSI va subiendo conforme los jugadores son entrenados. Por tanto en el mercado de transferencias, con mucha práctica, se puede predecir aproximadamente el subnivel de un jugador. Es decir, podemos saber si un delantero es excelente recién subido, o es excelente 'alto', esto es, que ha sido entrenado algunas semanas. Y claro, ahí hay negocio: fichas un excelente 'alto', lo entrenas una semana o dos y lo vendes siendo ya 'formidable'. Más información en el capítulo de steptrading.
+- **Saber cuán lesionado está un jugador.** Las lesiones producen una brusca bajada del TSI, que se va recuperando según el jugador va recibiendo actualizaciones de salud. Si apuntas el TSI que tenía tu jugador antes de lesionarse, y compruebas el que tiene tras pasar por la primera actualización, podrás conocer su lesión exacta. Por ejemplo, si pone que está 'lesionado 2 semanas', saber si está con dos semanas y pocos días, o con dos semanas y seis días (con lo cual estaría casi en +3 y le costaría más recuperarse). Si tienes el TSI antes de la lesión, y el actual, puedes introducirlos en esta herramienta, y obtendrás el nivel exacto de la lesión. Para más información, consulta la sección de lesiones.
+- **Analizar rivales**. No podemos ver las habilidades de los jugadores rivales, pero sí su TSI, su forma y su resistencia. Por tanto podemos 'adivinar' aproximadamente qué habilidades tiene, con un poco de práctica. También podemos mirar el TSI de nuestros jugadores, para compararlos con los del rival y aproximar las habilidades que tiene.

@@ -2,8 +2,110 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff778d78-4654-43ee-98c1-52e88338bfe1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/adios-portavoz-te-echaremos-de-menos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/aficionados-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/aplicacion-guia-ocerin-android.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/aportaciones-de-los-jugadores-en-hattrick-actualizadas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/aportaciones-de-los-jugadores-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/asistente-tactico-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/asistentes-y-forma-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/atacar-por-el-centro-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/atacar-por-las-bandas-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/bajadas-de-habilidad-y-sueldos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/balon-parado-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/bienvenidos-guia-ocerin.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/calificaciones-del-equipo-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/campeones-copa-ocerin.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/caracter-honestidad-y-agresividad.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/combinaciones-de-empleados-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/como-entrenar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/como-instalar-psicotsi-y-htlivesight-en-chrome.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/comparativa-entre-antiguos-y-nuevos-asistentes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/competiciones-en-ocerin.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/contraataques-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/coste-de-despedir-empleados-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/coste-de-los-empleados-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/diccionario-de-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/director-financiero-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/doctor-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/editoriales-de-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/el-entrenador-asistente.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/el-entrenador.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/el-extremo-ese-jugador-tan-especial.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/empleados-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/entrenador-hattrick-ii.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/entrenamientos-principales.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/errores-de-novato.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/especialidades-para-los-jugadores-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/espiritu-y-confianza-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/estadio.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/estrategias-financieras-en-hattrick-intereses-y-bancarrota.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/eventos-especiales-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/experiencia-confusion-y-nervios-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/fidelidad-tu-club.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/finanzas-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/forma-y-resistencia.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/formacion-343.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/formacion-352.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/formacion-451.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/grupo-dudas-telegram.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/habilidades-por-posicion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/habilidades.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/horarios-amistosos-internacionales.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/instrucciones-individuales-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/jugadores-cabeceadores-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/jugadores-estoicos-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/jugadores-imprevisibles-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/jugadores-influyentes-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/jugadores-potentes-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/jugadores-rapidos-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/jugadores-tecnicos-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/jugadores-viejos-ventajas-e-inconvenientes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/jugar-creativamente-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/juveniles-en-hattrick-red-o-academia.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/la-copa-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/la-formacion-253-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/la-formacion-433-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/la-formacion-442-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/la-formacion-523-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/la-formacion-532-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/la-formacion-541-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/la-formacion-550-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/la-liga-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/lesiones-y-tarjetas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/licencia-de-manager.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/links-ayuda-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/los-tipos-de-lesion-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/marcaje-al-hombre-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/mercado-de-hattrick-daytrading-y-steptrading.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/nueva-licencia-de-manager.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/nuevo-entorno-para-especialidades-y-eventos-especiales.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/nuevos-eventos-especiales-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/ocerin-facebook.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/otros-entrenamientos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/otros-eventos-especiales-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/partidos-amistosos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/porcentaje-de-resistencia.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/portavoz-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/precios-de-contratar-un-entrenador-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/premios-de-la-liga-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/preparador-fisico-entrenador-de-forma-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/presionar-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/primeros-pasos-de-tu-equipo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/psicologo-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/riesgo-de-lesiones-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/salarios-de-los-jugadores-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/sustituciones-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/tacticas-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/tiros-lejanos-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/truco-del-espiritu.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/tsi.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/una-actualizacion-la-academia-juveniles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/una-semana-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/vender-y-comprar-jugadores-en-hattrick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indice.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-05-08-potencial.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-08-potencial.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,21 +116,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
   <component name="ProjectId" id="1bcBEdTWbGMbNmrcovmFcCD1dVZ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alfonso\AndroidStudioProjects\numanty.github.io" />
       <recent name="C:\Users\Alfonso\AndroidStudioProjects\numanty.github.io\_posts" />
       <recent name="C:\Users\Alfonso\AndroidStudioProjects\alruiz85.github.io\_posts" />
     </key>
@@ -63,7 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588922388265</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Potencial">
+      <created>1588922784600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588922784600</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Potencial">
+      <created>1588922868780</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588922868780</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
