@@ -35,7 +35,7 @@ permalink: /indice/
 - Instrucciones individuales
 - Sustituciones
 - Calificaciones de equipo
-- [Aportaciones de los jugadores (estimadas)](aportaciones-de-los-jugadores-en-hattrick)
+- [Aportaciones de los jugadores (estimadas)](/aportaciones-de-los-jugadores-en-hattrick)
 - Tácticas
 - Eventos especiales
 - Balón parado
@@ -70,7 +70,7 @@ permalink: /indice/
 ### Economía
 - Finanzas
 - Estrategias. Intereses y Bancarrota.
-- [Aficionados](aficionados-en-hattrick)
+- [Aficionados](/aficionados-en-hattrick)
 - Estadio
 - Premios de la Liga
 - Vender y comprar jugadores
@@ -81,7 +81,7 @@ permalink: /indice/
 - El entrenador asistente
 - Doctor
 - Preparador físico (entr. de forma)
-- [Asistente táctico](asistente-tactico-en-hattrick)
+- [Asistente táctico](/asistente-tactico-en-hattrick)
 - Psicólogo
 - Director financiero
 - Combinaciones de empleados
@@ -92,7 +92,7 @@ permalink: /indice/
 - ¿Red o academia?
 
 ### Varios
-- [Potencial]("potencial")
+- [Potencial](/potencial)
 - Diccionario de hattrick
 - Editoriales de hattrick
 - El truco del espíritu
