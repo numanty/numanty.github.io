@@ -15,7 +15,7 @@ Te acaban de dar equipo en Hattrick y estás más nerviosa que una colegiala con
     - Si entrenas jugadas, juega con cinco centrocampistas en liga, y otros cinco diferentes el amistoso.
     - Si entrenas anotación, juega con tres delanteros en liga, y otros tres diferentes el amistoso.
 
-#### **Recomendaciones iniciales**
+#### Recomendaciones iniciales
 
 - Para entrenar un jugador, debe jugar en la posición que entrenas, un partido a la semana (sábado y miércoles). (Por ejemplo, si en "[Entrenamiento](http://www.guiaocerin.com/es/entrenamientos-principales/)" has elegido anotación, para que tus delanteros entrenen han de jugar un partido o de liga o amistoso).
 - Entrenan igual si juegan la liga, que si juegan un amistoso.
