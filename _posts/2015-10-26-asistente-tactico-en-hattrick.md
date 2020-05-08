@@ -4,13 +4,9 @@ title: Asistente táctico en hattrick
 date: 2015-10-26
 ---
 
-En Hattrick puedes contratar los siguientes tipos de empleados: [Entrenador asistente](http://www.guiaocerin.com/es/el-entrenador-asistente/), [Doctor](http://www.guiaocerin.com/es/doctor-en-hattrick/), [Psicólogo](http://www.guiaocerin.com/es/psicologo-en-hattrick/), Asistente táctico, [Preparador físico](http://www.guiaocerin.com/es/preparador-fisico-entrenador-de-forma-en-hattrick/) y [Director financiero](http://www.guiaocerin.com/es/director-financiero-en-hattrick/). Puedes contratar un total de 4 empleados, y sólo un empleado de cada tipo excepto en el caso de los Entrenadores asistentes, de los cuáles puedes contratar hasta dos.
-
-#### Asistente táctico en hattrick
-
 El asistente táctico en hattrick te proporciona algunas opciones extras cuando vas a enviar tu alineación para el próximo partido: te permite dejar planificadas más sustituciones y órdenes individuales, y también puedes ajustar el estilo ofensivo o defensivo de tu equipo.
 
-**Sustituciones y órdenes****.**
+**Sustituciones y órdenes**
 
 En hattrick puedes dejar planificadas 5 órdenes condicionadas para el partido, que pueden incluir sustituciones de jugadores, intercambios de posiciones u órdenes individuales. El entrenador táctico te permite ampliar esas 5 órdenes, añadiendo una por cada nivel de empleado.
 
