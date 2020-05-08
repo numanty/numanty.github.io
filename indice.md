@@ -5,7 +5,7 @@ permalink: /indice/
 ---
 
 ### Primeros pasos
-- Primeros pasos de tu equipo
+- [Primeros pasos de tu equipo](/primeros-pasos-de-tu-equipo)
 - Licencia de Mánager
 - Una semana en Hattrick
 - Errores de novato
