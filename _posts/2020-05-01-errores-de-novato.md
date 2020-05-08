@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Errores de novato en hattrick
-date: 2014-03-28
+date: 2020-05-01
 ---
 
 El 05/11/2011 el usuario de hattrick [Mandonio](http://www.hattrick.org/Club/Manager/?userId=6243152), abrió un tema en el foro de Hattrick para que todos los usuarios comentaran sus errores de novato en hattrick. En ese tema se fueron recopilando los típicos errores que todos hemos cometido alguna vez, para recordarlos pero sobretodo para ayudar a nuevos usuarios a no tropezar con las mismas piedras.

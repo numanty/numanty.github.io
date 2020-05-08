@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aportaciones de los jugadores en hattrick
-date: 2015-02-07
+date: 2020-05-01
 ---
 Las aportaciones de los jugadores en hattrick es una de las dudas más frecuentes que solemos tener. ¿Cuánto me aporta un portero a la defensa? ¿Y un defensa central? ¿Y si son dos defensas centrales? ¿Y qué hago con ese extremo con jugadas, normal u ofensivo?
 

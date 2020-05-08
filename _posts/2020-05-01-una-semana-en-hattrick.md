@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Una semana en Hattrick
-date: 2014-03-28
+date: 2020-05-01
 ---
 
 Esta sería la historia de cualquier equipo, una semana cualquiera en Hattrick.

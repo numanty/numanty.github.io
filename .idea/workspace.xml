@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff778d78-4654-43ee-98c1-52e88338bfe1" name="Default Changelist" comment="" />
+    <list default="true" id="ff778d78-4654-43ee-98c1-52e88338bfe1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2014-03-28-errores-de-novato.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-01-errores-de-novato.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-03-28-licencia-de-manager.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-01-licencia-de-manager.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-03-28-primeros-pasos-de-tu-equipo.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-01-primeros-pasos-de-tu-equipo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-03-28-tsi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-01-tsi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-03-28-una-semana-en-hattrick.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-01-una-semana-en-hattrick.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-04-aficionados-en-hattrick.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-01-aficionados-en-hattrick.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-06-portavoz-en-hattrick.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-01-portavoz-en-hattrick.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-02-07-aportaciones-de-los-jugadores-en-hattrick.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-01-aportaciones-de-los-jugadores-en-hattrick.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-26-adios-portavoz-te-echaremos-de-menos.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-01-adios-portavoz-te-echaremos-de-menos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-26-asistente-tactico-en-hattrick.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-01-asistente-tactico-en-hattrick.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +59,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570309466239</updated>
-    </task>
-    <task id="LOCAL-00063" summary="updates">
-      <created>1588952309369</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1588952309369</updated>
-    </task>
-    <task id="LOCAL-00064" summary="updates">
-      <created>1588952408904</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1588952408904</updated>
     </task>
     <task id="LOCAL-00065" summary="updates">
       <created>1588952616933</created>
@@ -392,7 +389,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588963682989</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="updates">
+      <created>1588963766609</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1588963766609</updated>
+    </task>
+    <task id="LOCAL-00113" summary="updates">
+      <created>1588963869762</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1588963869762</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="UnknownFeatures">

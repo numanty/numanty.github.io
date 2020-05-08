@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Portavoz en hattrick
-date: 2014-08-06
+date: 2020-05-01
 ---
 
 ⚠️**IMPORTANTE:** este empleado fue eliminado de Hattrick mediante una Editorial del día 25 de Octubre de 2015, por lo que la información de este post está **obsoleta** y no debes tenerla en cuenta. Hemos guardado el post como curiosidad.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asistente táctico en hattrick
-date: 2015-10-26
+date: 2020-05-01
 ---
 
 El asistente táctico en hattrick te proporciona algunas opciones extras cuando vas a enviar tu alineación para el próximo partido: te permite dejar planificadas más sustituciones y órdenes individuales, y también puedes ajustar el estilo ofensivo o defensivo de tu equipo.

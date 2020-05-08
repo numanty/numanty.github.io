@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Primeros pasos de tu equipo
-date: 2014-03-28
+date: 2020-05-01
 ---
 Te acaban de dar equipo en Hattrick y estás más nerviosa que una colegiala con rotuladores nuevos. ¡Espera! ¡No toques nada aún! Léete primero los siguientes pasos:
 

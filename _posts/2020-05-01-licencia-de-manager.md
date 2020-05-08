@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Licencia de manager
-date: 2014-03-28
+date: 2020-05-01
 ---
 
 Aquí explicamos la licencia de manager en Hattrick. Esta Licencia son una serie de pequeños retos para que los usuarios novatos conozcan mejor el juego. Es importante completarla por la información básica que proporciona y también porque realizar todos los retos te dará un total de 250.000 euros para tu equipo.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aficionados en hattrick
-date: 2014-08-04
+date: 2020-05-01
 ---
 
 El estado de ánimo de los aficionados en hattrick es importantísimo, porque afecta número de espectadores que tendrás en tus partidos como local. Este estado de ánimo varía tras cada partido dependiendo del resultado logrado.
