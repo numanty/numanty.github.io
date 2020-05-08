@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff778d78-4654-43ee-98c1-52e88338bfe1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/aficionados-en-hattrick.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-08-04-aficionados-en-hattrick.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/aplicacion-guia-ocerin-android.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/aportaciones-de-los-jugadores-en-hattrick-actualizadas.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-06-26-aportaciones-de-los-jugadores-en-hattrick-actualizadas.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/aportaciones-de-los-jugadores-en-hattrick.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-02-07-aportaciones-de-los-jugadores-en-hattrick.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-26-aportaciones-de-los-jugadores-en-hattrick-actualizadas.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-06-26-aportaciones-de-los-jugadores-en-hattrick-actualizadas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-26-adios-portavoz-te-echaremos-de-menos.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-10-26-adios-portavoz-te-echaremos-de-menos.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -286,7 +283,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588938275852</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="updates">
+      <created>1588938824172</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1588938824172</updated>
+    </task>
+    <task id="LOCAL-00035" summary="updates">
+      <created>1588939012435</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1588939012435</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="UnknownFeatures">
