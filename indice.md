@@ -48,12 +48,12 @@ permalink: /indice/
 - Horarios partidos amistosos internacionales
 
 #### Las tácticas
--Atacar por las bandas
--Atacar por el centro
--Contraataques
--Presionar
--Tiros lejanos
--Jugar creativamente
+- Atacar por las bandas
+- Atacar por el centro
+- Contraataques
+- Presionar
+- Tiros lejanos
+- Jugar creativamente
 
 #### Las formaciones
 - 352

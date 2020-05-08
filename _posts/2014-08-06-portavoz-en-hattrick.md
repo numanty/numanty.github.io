@@ -8,7 +8,7 @@ date: 2014-08-06
 
 En Hattrick puedes contratar los siguientes tipos de empleados: [Entrenador asistente](http://www.guiaocerin.com/es/el-entrenador-asistente/), [Doctor](http://www.guiaocerin.com/es/doctor-en-hattrick/), [Psicólogo](http://www.guiaocerin.com/es/psicologo-en-hattrick/), Portavoz, [Preparador físico](http://www.guiaocerin.com/es/preparador-fisico-entrenador-de-forma-en-hattrick/) y [Director financiero](http://www.guiaocerin.com/es/director-financiero-en-hattrick/). Puedes contratar un total de 5 empleados, y sólo un empleado de cada tipo excepto en el caso de los Entrenadores asistentes, de los cuáles puedes contratar hasta tres.
 
-### Portavoz
+#### Portavoz
 
 El portavoz en hattrick anuncia lo genial que es tu equipo, y por tanto sube el estado de ánimo tanto a los patrocinadores como a [los aficionados](http://www.guiaocerin.com/es/aficionados-en-hattrick/). Es por tanto un empleado útil económicamente, puesto que los patrocinadores te pagarán más y venderás más entradas para los partidos en tu estadio. De hecho donde más se nota económicamente la influencia del portavoz es en el estado de ánimo de los aficionados, pero es más difícil de apreciar porque los aficionados se ven muy influidos por los resultados de los partidos. Sin embargo el efecto en los portavoces se ve de forma más clara, aunque económicamente su aporte sea menor.
 
