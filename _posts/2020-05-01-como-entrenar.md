@@ -51,4 +51,8 @@ Pero hay más entrenamientos a parte de esos, que no recomendamos a nuevos usuar
 - Sí, más arriba hemos dicho que sólo entrenan los que jueguen en posición entrenable. Pero el resto reciben un efecto muy pequeño (entre el 12 y el 16% de los que juegan en posiciones entrenables).
 - Por eso en ocasiones puede que te suba nivel un jugador que no había jugado en posición entrenable.
 - Puede ser útil en determinados casos de [Step](http://www.guiaocerin.com/es/mercado-de-hattrick-daytrading-y-steptrading/).
-- El porcentaje de entrenamiento residual es el siguiente,[![](http://www.guiaocerin.com/es/wp-content/uploads/sites/2/2014/03/Entrenamiento-residual.jpg)](http://www.guiaocerin.com/es/wp-content/uploads/sites/2/2014/03/Entrenamiento-residual.jpg)Portería no tiene entrenamiento residual (sólo entrenan los porteros). Tiros y balón parado no tienen tampoco residual, porque son entrenamientos que afectan directamente a todos los jugadores que jueguen el partido.
+- El porcentaje de entrenamiento residual es el siguiente:
+
+[![](http://www.guiaocerin.com/es/wp-content/uploads/sites/2/2014/03/Entrenamiento-residual.jpg)](http://www.guiaocerin.com/es/wp-content/uploads/sites/2/2014/03/Entrenamiento-residual.jpg)
+
+Portería no tiene entrenamiento residual (sólo entrenan los porteros). Tiros y balón parado no tienen tampoco residual, porque son entrenamientos que afectan directamente a todos los jugadores que jueguen el partido.
