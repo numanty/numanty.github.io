@@ -6,7 +6,7 @@ date: 2020-05-01
 
 Si en el apartado [Entrenos Principales](/entrenamientos-principales) explicábamos los entrenamientos más adecuados para empezar en hattrick, aquí hablaremos de esos otros entrenamientos mucho más raros y arriesgados. Para el día que busques nuevas experiencias o te canses de lo de siempre. Pero de inicio, no recomendamos en absoluto entrenarlos.
 
-### Lateral
+## Lateral
 
 **¿Quiénes entrenan?**
 
@@ -38,7 +38,7 @@ Si entrenas a jugadores con otras habilidades (jugadas o defensa), desde el prim
 - Además los inicios son duros, al poner extremos sin lateral prescindes de los ataques laterales.
  
 
-### Ataques laterales
+## Ataques laterales
 
 **¿Quiénes entrenan?**
 
@@ -65,7 +65,7 @@ Difícil jugar siempre con 3 delanteros sin perder competitividad. Si vas a pone
 Es similar a 'Lateral', sólo que aquí en vez de a defensas entrenas a delanteros. Es un poco más lento pero entrenas a más jugadores, por lo que queda igualado. Pero si no vas a poner 3 delanteros en liga y 3 en amistoso, no merece la pena comparándolo con 'Lateral'.
  
 
-### Pases cortos
+## Pases cortos
 
 **¿Quiénes entrenan?**
 
@@ -94,7 +94,7 @@ Lo bueno de este entrenamiento. Tienes delanteros jugando de delanteros, centroc
 Un entrenamiento cómodo deportivamente, en el que vas mejorando a muchos jugadores cada semana. Aunque en liga se suele usar la 3-5-2, pierdes un puesto de entrenamiento pero no penalizas tanto la defensa. Económicamente, depende mucho del tipo de jugador que te hagas.
 
 
-### Pases largos
+## Pases largos
 
 **¿Quiénes entrenan?**
 
@@ -121,7 +121,7 @@ Quizá es menos buena que 'pases cortos', en el sentido de que los pases en los 
 Entrenamiento cómodo como pases cortos, aunque en este deberás jugar de forma más defensiva. Además los pases en los defensas no son tan buscados como en los delanteros. Ésto es porque mientras que en los delanteros influyen directamente en su rendimiento (sacas más ataque), en los defensas no mejoran la defensa.
  
 
-### Posiciones defensivas
+## Posiciones defensivas
 
 **¿Quiénes entrenan?**
 
@@ -148,7 +148,7 @@ Bastante mala... ya que entrenas tan lento lo lógico es que juegues 5-5-0, una 
 Locura total, tienes que fichar 22 jugadores para entrenar de forma lenta, y además deportivamente puede ser una tortura. Ha dado buenos resultados a equipos que quieren dejar competir por un tiempo. Se fichan los 22 jugadores, van perdiendo partidos y cuando ya los han entrenado bastante se sacan un buen dinero vendiéndolos. Pero muy arriesgado, sólo para locos (o genios).
 
 
-### Tiros
+## Tiros
 
 **¿Quiénes entrenan?**
 
@@ -175,7 +175,7 @@ Puedes fichar los jugadores que quieras ya que entrenan todos, por lo tanto ning
 Si te cansa lo de siempre y quieres ser conocido como "el loco ese que entrena tiros", adelante. Es una locura total, pero si ya has probado de todo... pruébalo y nos cuentas.
 
 
-### Balón parado
+## Balón parado
 
 **¿Quiénes entrenan?**
 

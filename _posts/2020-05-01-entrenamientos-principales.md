@@ -6,7 +6,7 @@ date: 2020-05-01
 
 Para empezar, y tras haber contratado a un entrenador aceptable con liderazgo pobre, debes elegir qué entrenar. Hay varias opciones (Portería, Defensa, Jugadas, Anotación, Pases, Lateral, Ataques laterales, Balón parado, Posiciones defensivas y Tiros), en este apartado nos centraremos en los cuatro primeros, ya que son los más adecuados para empezar a jugar.
 
-### Portería
+## Portería
 
 **¿Quiénes entrenan?**
 
@@ -28,8 +28,8 @@ entrenar sólo dos jugadores es un handicap bastante fuerte para comenzar, pero 
 
 A pesar de entrenar sólo un jugador titular, la mejora de este jugador incide en las tres zonas defensivas, con lo que irás mejorando las tres. Sin embargo en divisiones bajas la defensa no es tan útil, es más efectivo salir con posesión y al ataque, reservando a la defensa un papel secundario.
 
- 
-### Defensa
+
+## Defensa
 
 **¿Quiénes entrenan?**
 
@@ -55,8 +55,8 @@ la defensa por sí sola no gana partidos, y jugar siempre con cinco atrás puede
 
 Si los fichas cabeceadores o potentes, tendrán aun más valor el día que los vendas (y además te ayudarán deportivamente)
 
- 
-### Jugadas
+
+## Jugadas
 
 **¿Quiénes entrenan?**
 
@@ -84,8 +84,8 @@ El mediocampo es la línea más importante en hattrick, y con este entrenamiento
 
 Si los fichas cabeceadores, tendrán aun más valor el día que los vendas (y además te ayudarán deportivamente).
 
- 
-### Anotación
+
+## Anotación
 
 **¿Quiénes entrenan?**
 
