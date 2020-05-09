@@ -64,6 +64,4 @@ Pero hay más entrenamientos a parte de esos, que no recomendamos a nuevos usuar
 | Pases cortos | 16,60% |
 | Pases largos | 16,60% |
 
-[![](http://www.guiaocerin.com/es/wp-content/uploads/sites/2/2014/03/Entrenamiento-residual.jpg)](http://www.guiaocerin.com/es/wp-content/uploads/sites/2/2014/03/Entrenamiento-residual.jpg)
-
 Portería no tiene entrenamiento residual (sólo entrenan los porteros). Tiros y balón parado no tienen tampoco residual, porque son entrenamientos que afectan directamente a todos los jugadores que jueguen el partido.
