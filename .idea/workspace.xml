@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff778d78-4654-43ee-98c1-52e88338bfe1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-01-como-entrenar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-01-como-entrenar.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570309466239</updated>
-    </task>
-    <task id="LOCAL-00075" summary="updates">
-      <created>1588956568048</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1588956568048</updated>
     </task>
     <task id="LOCAL-00076" summary="updates">
       <created>1588956868877</created>
@@ -394,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589022656801</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="updates">
+      <created>1589022963335</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1589022963335</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="UnknownFeatures">
