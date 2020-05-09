@@ -53,6 +53,17 @@ Pero hay más entrenamientos a parte de esos, que no recomendamos a nuevos usuar
 - Puede ser útil en determinados casos de [Step](http://www.guiaocerin.com/es/mercado-de-hattrick-daytrading-y-steptrading/).
 - El porcentaje de entrenamiento residual es el siguiente:
 
+| Habilidad | Residual |
+| :---: | :---: |
+| Defensa | 16,60% |
+| Posiciones defensivas | 16,60% |
+| Jugadas | 12,50% |
+| Lateral | 12,50% |
+| Anotación | 16,60% |
+| Ataques laterales | 12,50% |
+| Pases cortos | 16,60% |
+| Pases largos | 16,60% |
+
 [![](http://www.guiaocerin.com/es/wp-content/uploads/sites/2/2014/03/Entrenamiento-residual.jpg)](http://www.guiaocerin.com/es/wp-content/uploads/sites/2/2014/03/Entrenamiento-residual.jpg)
 
 Portería no tiene entrenamiento residual (sólo entrenan los porteros). Tiros y balón parado no tienen tampoco residual, porque son entrenamientos que afectan directamente a todos los jugadores que jueguen el partido.
