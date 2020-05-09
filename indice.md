@@ -25,7 +25,7 @@ permalink: /indice/
 - Bajadas de habilidad y sueldos
 
 ### Entrenamientos
-- Cómo entrenar
+- [Cómo entrenar](/como-entrenar)
 - Entrenamientos principales
 - Otros entrenamientos
 - El entrenador: Habilidades

@@ -1,14 +1,10 @@
 ---
 layout: post
 title: Cómo entrenar en hattrick
-date: 2014-03-28
+date: 2020-05-01
 ---
 
 El entrenamiento es la base de hattrick. Sin saber cómo entrenar en hattrick, y sin aprovechar bien el entrenamiento elegido, no podrás progresar y acabarás atascado. Aquí explicamos cómo se entrena.
-
-![](http://i.imgur.com/84nFqg3.jpg)
-
- 
 
 **Lo primero:** en 'Entrenamiento' has de elegir qué vas a entrenar. Más información sobre los entrenamientos básicos [en esta sección](http://www.guiaocerin.com/es/entrenamientos-principales/).
 
@@ -47,9 +43,6 @@ Para progresar, debes vender jugadores. Por ejemplo si estás entrenando 10 defe
 De inicio, recomendamos entrenar Portería, Defensa, Jugadas o Anotación. A estos cuatro entrenamientos los hemos llamado 'Entrenamientos Básicos', y los detallamos en su sección.
 
 Pero hay más entrenamientos a parte de esos, que no recomendamos a nuevos usuarios. Estos entrenamientos son Lateral, Pases cortos, Pases largos, Posiciones defensivas, Ataques laterales, Balón parado y Tiros. Consulta la sección '[Otros Entrenamientos](http://www.guiaocerin.com/es/otros-entrenamientos/)'.
-
-![](http://i.imgur.com/SnYR6Xh.jpg)
-
  
 
 **Entrenamiento por ósmosis (Entrenamiento residual)**
