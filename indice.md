@@ -26,8 +26,8 @@ permalink: /indice/
 
 ### Entrenamientos
 - [Cómo entrenar](/como-entrenar)
-- Entrenamientos principales
-- Otros entrenamientos
+- [Entrenamientos principales](/entrenamientos-principales)
+- [Otros entrenamientos](/otros-entrenamientos)
 - El entrenador: Habilidades
 - El entrenador: Cómo contratar
 
