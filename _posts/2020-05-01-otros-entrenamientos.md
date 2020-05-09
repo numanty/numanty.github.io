@@ -4,7 +4,7 @@ title: Otros entrenamientos
 date: 2020-05-01
 ---
 
-Si en el apartado [Entrenos Principales](entrenamientos-principales) explicábamos los entrenamientos más adecuados para empezar en hattrick, aquí hablaremos de esos otros entrenamientos mucho más raros y arriesgados. Para el día que busques nuevas experiencias o te canses de lo de siempre. Pero de inicio, no recomendamos en absoluto entrenarlos.
+Si en el apartado [Entrenos Principales](/entrenamientos-principales) explicábamos los entrenamientos más adecuados para empezar en hattrick, aquí hablaremos de esos otros entrenamientos mucho más raros y arriesgados. Para el día que busques nuevas experiencias o te canses de lo de siempre. Pero de inicio, no recomendamos en absoluto entrenarlos.
 
 ## Lateral
 
