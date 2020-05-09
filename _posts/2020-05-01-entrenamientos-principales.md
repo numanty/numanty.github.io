@@ -27,8 +27,8 @@ entrenar sólo dos jugadores es un handicap bastante fuerte para comenzar, pero 
 **Valoración deportiva:**
 
 A pesar de entrenar sólo un jugador titular, la mejora de este jugador incide en las tres zonas defensivas, con lo que irás mejorando las tres. Sin embargo en divisiones bajas la defensa no es tan útil, es más efectivo salir con posesión y al ataque, reservando a la defensa un papel secundario.
- 
 
+ 
 ### Defensa
 
 **¿Quiénes entrenan?**
