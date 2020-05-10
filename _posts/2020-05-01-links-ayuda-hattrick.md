@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Links ayuda Hattrick
-date: 2014-03-28
+date: 2020-05-01
 ---
 
 A continuación, una serie de links ayuda hattrick, en los que encontrarás una serie de programas y extensiones que te servirán de gran utilidad, recomendamos:

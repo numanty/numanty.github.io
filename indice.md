@@ -100,10 +100,10 @@ permalink: /indice/
 - Portavoz (obsoleto)
 - ¿Cómo instalar PsicoTsi y HTLiveSight en Chrome?
 - Hattrick Next Generation
-- Links
+- [Links](/links-ayuda-hattrick)
 
 ### Competiciones Ocerin
-- Competiciones en Ocerin
+- [Competiciones en Ocerin](/competiciones-en-ocerin)
 - Histórico de campeones Copa Ocerin
 
 ### Opciones de pago
