@@ -68,15 +68,14 @@ Puedes no invertir nada en juveniles y no ascenderlos, fichando jóvenes de otro
 
 - Los informes de tu entrenador constarán de 4 aspectos (aunque no aparecen siempre):
 
-    - el nivel actual de la habilidad entrenada como primaria de un jugador que haya jugado al menos 44 minutos en la posición adecuada, es decir, si entrenas anotación como primario, debe haber jugado de delantero. (Nota: Si la habilidad actual de todos los jugadores que estén en una posición entrenable ha sido revelada anteriormente, tu entrenador no emitirá ningún informe de este tipo).
+    - El nivel actual de la habilidad entrenada como primaria de un jugador que haya jugado al menos 44 minutos en la posición adecuada, es decir, si entrenas anotación como primario, debe haber jugado de delantero. (Nota: Si la habilidad actual de todos los jugadores que estén en una posición entrenable ha sido revelada anteriormente, tu entrenador no emitirá ningún informe de este tipo).
 
-    - el nivel potencial al que puede llegar un jugador en la habilidad entrenada como secundaria, si el jugador ha jugado al menos 44 minutos en la posición adecuada. (Nota: si entrenas lo mismo como primario y secundario, no recibirás informes sobre niveles potenciales).
+    - El nivel potencial al que puede llegar un jugador en la habilidad entrenada como secundaria, si el jugador ha jugado al menos 44 minutos en la posición adecuada. (Nota: si entrenas lo mismo como primario y secundario, no recibirás informes sobre niveles potenciales).
 
-    - habilidad no entrenada de uno de los tres jugadores con potencial más alto (pero no en todos los informes).
+    - Habilidad no entrenada de uno de los tres jugadores con potencial más alto (pero no en todos los informes).
+        
+    - Notas e informes sobre especialidades y carácter de tus jugadores.
     
-    - notas e informes sobre especialidades y carácter de tus jugadores.
-
-
 Ascender a un juvenil al primer equipo
 
 - Cuando tu juvenil crack haya llegado al tope de potencial, y no pueda/quieras entrenarle más habilidades secundarias, puedes subirlo al primer equipo para que continue allí su entrenamiento, o para venderlo.
