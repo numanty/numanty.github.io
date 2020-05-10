@@ -71,7 +71,7 @@ permalink: /indice/
 - Finanzas
 - Estrategias. Intereses y Bancarrota.
 - [Aficionados](/aficionados-en-hattrick)
-- Estadio
+- [Estadio](/estadio)
 - Premios de la Liga
 - Vender y comprar jugadores
 - Mercado: Daytrading y Steptrading
