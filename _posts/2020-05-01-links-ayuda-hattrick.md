@@ -21,20 +21,18 @@ A continuación, una serie de links ayuda hattrick, en los que encontrarás una 
 
 **Chrome**
 
-[PsicoTSI](http://psicotsi.sourceforge.net/releases/)
-
 [HTLiveSight](http://htlivesight.sourceforge.net/downloads.html)
 
-[Foxtrick](https://chrome.google.com/webstore/detail/foxtrick/bpfbbngccefbbndginomofgpagkjckik) desde la Chrome Web Store.
+[Foxtrick](https://chrome.google.com/webstore/detail/foxtrick/bpfbbngccefbbndginomofgpagkjckik) Chrome Web Store.
+
+[Foxtrick](https://www.foxtrick.org/download/beta) Página oficial.
 
 
 **Firefox**
 
-[PsicoTSI](http://psicotsi.sourceforge.net/releases/)
-
 [HTLiveSight](http://htlivesight.sourceforge.net/downloads.html)
 
-[Foxtrick](https://addons.mozilla.org/es/firefox/addon/foxtrick/)
+[Foxtrick](https://www.foxtrick.org/download/beta)
 
 
 **Webs**
