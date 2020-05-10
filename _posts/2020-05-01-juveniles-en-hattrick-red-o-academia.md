@@ -73,7 +73,7 @@ Puedes no invertir nada en juveniles y no ascenderlos, fichando jóvenes de otro
     - El nivel potencial al que puede llegar un jugador en la habilidad entrenada como secundaria, si el jugador ha jugado al menos 44 minutos en la posición adecuada. (Nota: si entrenas lo mismo como primario y secundario, no recibirás informes sobre niveles potenciales).
 
     - Habilidad no entrenada de uno de los tres jugadores con potencial más alto (pero no en todos los informes).
-        
+
     - Notas e informes sobre especialidades y carácter de tus jugadores.
 
 
