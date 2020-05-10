@@ -8,6 +8,7 @@ Hay que tener claro que el entrenador en hattrick es una figura clave en el jueg
 
 ¿Y qué hace? Principalmente, que tus jugadores entrenen y para ello el entrenador utilizará sus niveles de...
 
+ 
  
 **Nivel de entrenador**
 

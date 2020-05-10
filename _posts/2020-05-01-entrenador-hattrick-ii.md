@@ -17,7 +17,6 @@ Ahora que ya sabes en qué influye el nivel de entrenador, el liderazgo y el tip
 - Si estás en un nivel más avanzado, es posible que quieras un entrenador con liderazgo. En ese caso es mejor opción (más barata) darle el puesto de entrenador a un jugador de tu plantilla.
 - El coste de contratar un entrenador de fuera de tu club, es el siguiente (teniendo en cuenta nivel y liderazgo):
 
-![](http://i.imgur.com/UBBdmsc.png)
 
 | - | Liderazgo |
 | Nivel | Pobre | Débil | Insuficiente | Aceptable | Bueno |
@@ -47,6 +46,8 @@ Ahora que ya sabes en qué influye el nivel de entrenador, el liderazgo y el tip
 - El entrenador no puede ser vendido, ni cuando es entrenador ni cuando deje de serlo.
 - Al convertirse en entrenadores, los jugadores dejan de estar lesionados.
 
+ 
+
 **¿Contratar de fuera o convertir jugador?.**
 
 Si no nos importa el liderazgo, contratar un entrenador bueno directamente cuesta sólo 268.000 euros, lo que es más barato que convertir un jugador. Sin embargo la diferencia principal es que si queremos un entrenador con liderazgo (¿por qué? ver la [sección del espíritu de equipo](http://www.guiaocerin.com/es/espiritu-y-confianza-en-hattrick/)), contratarlo de fuera es exageradamente caro. Un entrenador bueno con liderazgo aceptable costaría más de 1.700.000. ¿Cómo conseguir un entrenador bueno con liderazgo? Convirtiendo a un jugador en entrenador.
@@ -62,6 +63,8 @@ Recuerda que una vez transformado en entrenador, irá perdiendo liderazgo poco a
 Como hemos comentado, puede que hoy fiches a un jugador joven porque te gustan sus habilidades, y que te des cuenta de que por ejemplo tiene liderazgo bueno. Este jugador participará en muchos partidos, irá subiendo experiencia... y quizá dentro de muchas temporadas cuando sea mayor veas que lo puedes transformar en entrenador a un buen precio sin necesidad de fichar otro jugador con experiencia y liderazgo. Pero has de tener en cuenta, como ya hemos comentado, que una vez transformado en entrenador ya nunca más podrás venderlo, ni siquiera cuando deje de ser entrenador.
 
 Por lo tanto hay que hacer cálculos de qué sale más a cuenta: no vender el jugador y convertirlo a entrenador; o vender el jugador, fichar otro de fuera y convertirlo.
+
+ 
 
 **En resumen:**
 
