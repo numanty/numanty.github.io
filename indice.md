@@ -89,7 +89,7 @@ permalink: /indice/
 - Despido de los empleados
 
 ### Juveniles
-- ¿Red o academia?
+- [¿Red o academia?](/juveniles-en-hattrick-red-o-academia)
 
 ### Varios
 - [Potencial](/potencial)
