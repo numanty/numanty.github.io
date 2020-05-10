@@ -1,16 +1,12 @@
 ---
 layout: post
 title: El entrenador en Hattrick II
-date: 2015-07-22
+date: 2020-05-01
 ---
 
-Continuación del [Entrenador: Habilidades](http://www.guiaocerin.com/es/el-entrenador/).
-
- 
+Continuación del [Entrenador: Habilidades](/el-entrenador). 
 
 **Contratar entrenador**
-
-![](http://i.imgur.com/EBxcf11.jpg)
 
 Ahora que ya sabes en qué influye el nivel de entrenador, el liderazgo y el tipo, ya puedes contratar un entrenador. Hay dos formas de hacerlo, fichando uno de fuera, o dándole el puesto de entrenador a un jugador de tu plantilla.
 
@@ -23,7 +19,12 @@ Ahora que ya sabes en qué influye el nivel de entrenador, el liderazgo y el tip
 
 ![](http://i.imgur.com/UBBdmsc.png)
 
- 
+| - | Liderazgo |
+| Nivel | Pobre | Débil | Insuficiente | Aceptable | Bueno |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Aceptable | 79.600 | 182.800 | 329.700 | 521.000 | 757.100 |
+| Bueno | 268.700 | 617.100 | 1.112.900 | 1.758.500 | 2.555.500 |
+
 
 **Convertir jugador en entrenador:**
 
@@ -45,8 +46,6 @@ Ahora que ya sabes en qué influye el nivel de entrenador, el liderazgo y el tip
 - Cuando contratas un entrenador (ya sea de fuera o un jugador de tu equipo), el otro entrenador se queda en tu plantilla como un jugador más, con las habilidades que tenía. Lo más probable es que tenga todo en desastroso, y por tanto lo despidas.
 - El entrenador no puede ser vendido, ni cuando es entrenador ni cuando deje de serlo.
 - Al convertirse en entrenadores, los jugadores dejan de estar lesionados.
-
- 
 
 **¿Contratar de fuera o convertir jugador?.**
 

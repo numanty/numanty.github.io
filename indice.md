@@ -28,8 +28,8 @@ permalink: /indice/
 - [Cómo entrenar](/como-entrenar)
 - [Entrenamientos principales](/entrenamientos-principales)
 - [Otros entrenamientos](/otros-entrenamientos)
-- El entrenador: Habilidades
-- El entrenador: Cómo contratar
+- [El entrenador: Habilidades](/el-entrenador)
+- [El entrenador: Cómo contratar](/entrenador-hattrick-ii)
 
 ### Partidos
 - Instrucciones individuales
