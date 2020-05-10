@@ -18,14 +18,12 @@ html {
 }
 
 body {
-  background-image: url("http://www.guiaocerin.com/es/wp-content/uploads/sites/2/2015/10/pyecto_fondo.png");
-  background-repeat: repeat;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
-  background: $white;
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
