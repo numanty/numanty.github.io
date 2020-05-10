@@ -10,17 +10,14 @@ A continuación, una serie de links ayuda hattrick, en los que encontrarás una 
 
 [Hatrick for Android](https://play.google.com/store/apps/details?id=org.hattrick.hattrick) (Oficial)
 
-\---------------------------------------------
 
 **Android**
 
 [App Ocerin](https://play.google.com/store/apps/details?id=com.guiaocerin)
 
-\---------------------------------------------
 
 [Hattrick Organizer](http://sourceforge.net/projects/ho1/)
 
-\---------------------------------------------
 
 **Chrome**
 
@@ -30,7 +27,6 @@ A continuación, una serie de links ayuda hattrick, en los que encontrarás una 
 
 [Foxtrick](https://chrome.google.com/webstore/detail/foxtrick/bpfbbngccefbbndginomofgpagkjckik) desde la Chrome Web Store.
 
-\---------------------------------------------
 
 **Firefox**
 
@@ -40,7 +36,8 @@ A continuación, una serie de links ayuda hattrick, en los que encontrarás una 
 
 [Foxtrick](https://addons.mozilla.org/es/firefox/addon/foxtrick/)
 
-* * *
+
+**Webs**
 
 [Hattrick Portal](https://hattrickportal.pro/Utils)
 

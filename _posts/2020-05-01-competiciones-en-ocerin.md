@@ -13,7 +13,7 @@ Los requisitos para participar son muy sencillos, al margen de la normativa de c
 Además, son de carácter público, ya que cualquier equipo puede participar siempre que lo desee, y siempre estamos abiertos a nuevos miembros.
 
 
-**La Copa Ocerin:**
+### La Copa Ocerin
 
 Este torneo históricamente ha estado reservado a los equipos que no juegan la Copa de Hattrick, o son eliminados pronto. Se suele jugar sobre la 5ª jornada de Liga.
 
@@ -21,11 +21,12 @@ Dependiendo de los participantes, se pueden preparar unos octavos o cuartos de f
 
 Se juega en una sede que va cambiando temporada tras temporada a través de una votación, hemos jugado en Inglaterra, Uzbekistan, Jamaica, Sudáfrica...
 
-**Torneo Ocerin**
+### Torneo Ocerin
+
 Es igual a la Copa Ocerin, pero se juega aprovechando los duelos o torneos oficiales.
 
 
-**La Liga Ocerin:**
+### La Liga Ocerin
 
 En 2020 La Liga Ocerin se está jugando aprovechando los torneos oficiales en Hattrick.
 
