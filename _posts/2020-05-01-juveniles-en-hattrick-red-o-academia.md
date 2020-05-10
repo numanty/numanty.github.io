@@ -75,7 +75,8 @@ Puedes no invertir nada en juveniles y no ascenderlos, fichando jóvenes de otro
     - Habilidad no entrenada de uno de los tres jugadores con potencial más alto (pero no en todos los informes).
         
     - Notas e informes sobre especialidades y carácter de tus jugadores.
-    
+
+
 Ascender a un juvenil al primer equipo
 
 - Cuando tu juvenil crack haya llegado al tope de potencial, y no pueda/quieras entrenarle más habilidades secundarias, puedes subirlo al primer equipo para que continue allí su entrenamiento, o para venderlo.
